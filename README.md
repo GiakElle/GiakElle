@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GiakElle
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning c++ and sql (and topology too)
 - 💞️ I’m looking to collaborate on whatever make me learn something
 - 📫 Twitter: @giak_elle
 
